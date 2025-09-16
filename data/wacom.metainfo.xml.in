@@ -22,7 +22,7 @@
   <url type="donation">https://elementary.io/get-involved#funding</url>
   <url type="help">https://github.com/elementary/settings-wacom/discussions</url>
   <url type="homepage">https://elementary.io/</url>
-  <url type="translate">https://l10n.elementary.io/engage/switchboard/</url>
+  <url type="translate">https://l10n.elementary.io/engage/settings/</url>
 
   <developer id="org.elementaryos">
     <name>elementary, Inc.</name>
