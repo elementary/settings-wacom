@@ -12,15 +12,15 @@
 
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-wacom/8.0.0/data/screenshot.png</image>
+      <image>https://raw.githubusercontent.com/elementary/settings-wacom/8.0.0/data/screenshot.png</image>
     </screenshot>
   </screenshots>
 
   <content_rating type="oars-1.1" />
 
-  <url type="bugtracker">https://github.com/elementary/switchboard-plug-wacom/issues</url>
+  <url type="bugtracker">https://github.com/elementary/settings-wacom/issues</url>
   <url type="donation">https://elementary.io/get-involved#funding</url>
-  <url type="help">https://github.com/elementary/switchboard-plug-wacom/discussions</url>
+  <url type="help">https://github.com/elementary/settings-wacom/discussions</url>
   <url type="homepage">https://elementary.io/</url>
   <url type="translate">https://l10n.elementary.io/engage/switchboard/</url>
 
@@ -39,7 +39,7 @@
         </ul>
       </description>
       <issues>
-        <issue url="https://github.com/elementary/switchboard-plug-wacom/issues/69">Clicking on the Wacom plug crushes Settings, because stylus is not detected by libwacom</issue>
+        <issue url="https://github.com/elementary/settings-wacom/issues/69">Clicking on the Wacom plug crushes Settings, because stylus is not detected by libwacom</issue>
       </issues>
     </release>
 
