@@ -8,44 +8,44 @@ msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-17 19:11+0000\n"
-"PO-Revision-Date: 2019-09-05 19:23+0000\n"
-"Last-Translator: Daniel Foré <daniel@elementary.io>\n"
-"Language-Team: Swedish <https://l10n.elementary.io/projects/switchboard/plug-"
+"PO-Revision-Date: 2025-10-22 09:59+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "wacom/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.7.1\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src/Views/StylusView.vala:50
 msgid "Test Settings"
-msgstr ""
+msgstr "Testinställningar"
 
 #: src/Views/StylusView.vala:81
 msgid "Eraser Pressure Feel"
-msgstr ""
+msgstr "Tryckkänsla för suddning"
 
 #: src/Views/StylusView.vala:86
 msgid "Button Action"
-msgstr ""
+msgstr "Knappåtgärd"
 
 #: src/Views/StylusView.vala:89 src/Views/StylusView.vala:93
 msgid "Top Button Action"
-msgstr ""
+msgstr "Åtgärd för toppknapp"
 
 #: src/Views/StylusView.vala:90 src/Views/StylusView.vala:95
 msgid "Bottom Button Action"
-msgstr ""
+msgstr "Åtgärd för nedre knapp"
 
 #: src/Views/StylusView.vala:94
 msgid "Middle Button Action"
-msgstr ""
+msgstr "Åtgärd för mittknappen"
 
 #: src/Views/StylusView.vala:100
 msgid "Tip Pressure Feel"
-msgstr ""
+msgstr "Tryckkänsla för spets"
 
 #: src/Views/StylusView.vala:115
 msgid "Default"
@@ -53,11 +53,11 @@ msgstr "Standard"
 
 #: src/Views/StylusView.vala:116
 msgid "Middle Mouse Button Click"
-msgstr ""
+msgstr "Klicka på den mellersta musknappen"
 
 #: src/Views/StylusView.vala:117
 msgid "Right Mouse Button Click"
-msgstr ""
+msgstr "Klicka på höger musknapp"
 
 #: src/Views/StylusView.vala:118
 msgid "Back"
@@ -65,52 +65,52 @@ msgstr "Tillbaka"
 
 #: src/Views/StylusView.vala:119
 msgid "Forward"
-msgstr ""
+msgstr "Framåt"
 
 #: src/Views/StylusView.vala:144
 msgid "Soft"
-msgstr ""
+msgstr "Mjuk"
 
 #: src/Views/StylusView.vala:145
 msgid "Firm"
-msgstr ""
+msgstr "Fast"
 
 #: src/Views/TabletView.vala:52
 msgid "Tablet (absolute)"
-msgstr ""
+msgstr "Ritplatta (absolut)"
 
 #: src/Views/TabletView.vala:53
 msgid "Touchpad (relative)"
-msgstr ""
+msgstr "Pekplatta (relativ)"
 
 #: src/Views/TabletView.vala:55
 msgid "Tracking Mode"
-msgstr ""
+msgstr "Spårningsläge"
 
 #: src/Views/TabletView.vala:63
 msgid "Left Hand Orientation"
-msgstr ""
+msgstr "Vänsterhandsorientering"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
 msgid "Wacom"
-msgstr ""
+msgstr "Wacom"
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
-msgstr ""
+msgstr "Inga ritplattor tillgängliga"
 
 #: src/MainPage.vala:31
 msgid "Please ensure your tablet is connected and switched on"
-msgstr ""
+msgstr "Se till att din ritplatta är ansluten och aktiverad"
 
 #: src/MainPage.vala:34
 msgid "No Stylus Detected"
-msgstr ""
+msgstr "Ingen stylus upptäcktes"
 
 #: src/MainPage.vala:35
 msgid "Move the stylus over this window"
-msgstr ""
+msgstr "För pekpennan över detta fönster"
 
 #: src/Plug.vala:22
 msgid "Configure Wacom tablet"
-msgstr ""
+msgstr "Konfigurera Wacom-ritplatta"
