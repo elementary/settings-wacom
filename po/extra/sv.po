@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-17 19:11+0000\n"
-"PO-Revision-Date: 2025-10-22 05:26+0000\n"
+"PO-Revision-Date: 2025-10-22 09:59+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "plug-wacom-extra/sv/>\n"
@@ -25,7 +25,7 @@ msgstr "Wacom-inställningar"
 
 #: data/wacom.metainfo.xml.in:11
 msgid "Configure Wacom tablets"
-msgstr "Konfigurera Wacom-ritplatta"
+msgstr "Konfigurera Wacom-ritplattor"
 
 #: data/wacom.metainfo.xml.in:28
 msgid "elementary, Inc."
