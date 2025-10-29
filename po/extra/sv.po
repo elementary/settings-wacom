@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-17 19:11+0000\n"
-"PO-Revision-Date: 2025-10-22 09:59+0000\n"
+"PO-Revision-Date: 2025-10-30 09:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "plug-wacom-extra/sv/>\n"
@@ -50,7 +50,7 @@ msgstr "Se alla inställningar på en enda sida"
 
 #: data/wacom.metainfo.xml.in:51
 msgid "Show pen names"
-msgstr "Visa pseudonymer"
+msgstr "Visa pennamn"
 
 #: data/wacom.metainfo.xml.in:59
 msgid "Minor updates:"
