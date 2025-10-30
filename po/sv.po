@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-17 19:11+0000\n"
-"PO-Revision-Date: 2025-10-22 09:59+0000\n"
+"PO-Revision-Date: 2025-10-30 09:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "wacom/sv/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: src/Views/StylusView.vala:50
 msgid "Test Settings"
-msgstr "Testinställningar"
+msgstr "Testa inställningar"
 
 #: src/Views/StylusView.vala:81
 msgid "Eraser Pressure Feel"
@@ -53,11 +53,11 @@ msgstr "Standard"
 
 #: src/Views/StylusView.vala:116
 msgid "Middle Mouse Button Click"
-msgstr "Klicka på den mellersta musknappen"
+msgstr "Klick med mittenmusknappen"
 
 #: src/Views/StylusView.vala:117
 msgid "Right Mouse Button Click"
-msgstr "Klicka på höger musknapp"
+msgstr "Klick med höger musknapp"
 
 #: src/Views/StylusView.vala:118
 msgid "Back"
@@ -105,7 +105,7 @@ msgstr "Se till att din ritplatta är ansluten och aktiverad"
 
 #: src/MainPage.vala:34
 msgid "No Stylus Detected"
-msgstr "Ingen stylus upptäcktes"
+msgstr "Ingen pekpenna upptäcktes"
 
 #: src/MainPage.vala:35
 msgid "Move the stylus over this window"
