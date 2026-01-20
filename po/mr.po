@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-17 19:11+0000\n"
+"POT-Creation-Date: 2026-01-20 17:09+0000\n"
 "PO-Revision-Date: 2019-09-22 19:23+0000\n"
 "Last-Translator: Prachi Joshi <josprachi@yahoo.com>\n"
 "Language-Team: Marathi <https://l10n.elementary.io/projects/switchboard/plug-"
@@ -110,8 +110,8 @@ msgid "Left Hand Orientation"
 msgstr "डावीकडून अभिमुखता:"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
-msgid "Wacom"
-msgstr "वाकॉम"
+msgid "Pen & Drawing"
+msgstr ""
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -130,8 +130,14 @@ msgid "Move the stylus over this window"
 msgstr ""
 
 #: src/Plug.vala:22
-msgid "Configure Wacom tablet"
-msgstr "वॅकॉम टॅब्लेट कॉन्फिगर करा"
+msgid "Configure digitizer pens and drawing tablets"
+msgstr ""
+
+#~ msgid "Wacom"
+#~ msgstr "वाकॉम"
+
+#~ msgid "Configure Wacom tablet"
+#~ msgstr "वॅकॉम टॅब्लेट कॉन्फिगर करा"
 
 #~ msgid "Please move your stylus close to the tablet"
 #~ msgstr "कृपया आपले स्टाईलस टॅब्लेटच्या जवळ हलवा"

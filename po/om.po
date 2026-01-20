@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-17 19:11+0000\n"
+"POT-Creation-Date: 2026-01-20 17:09+0000\n"
 "PO-Revision-Date: 2024-08-07 18:16+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Oromo <https://l10n.elementary.io/projects/switchboard/plug-"
@@ -92,7 +92,7 @@ msgid "Left Hand Orientation"
 msgstr ""
 
 #: src/MainPage.vala:22 src/Plug.vala:21
-msgid "Wacom"
+msgid "Pen & Drawing"
 msgstr ""
 
 #: src/MainPage.vala:30
@@ -112,5 +112,5 @@ msgid "Move the stylus over this window"
 msgstr ""
 
 #: src/Plug.vala:22
-msgid "Configure Wacom tablet"
+msgid "Configure digitizer pens and drawing tablets"
 msgstr ""

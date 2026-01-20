@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-17 19:11+0000\n"
+"POT-Creation-Date: 2026-01-20 17:09+0000\n"
 "PO-Revision-Date: 2024-12-02 14:16+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://l10n.elementary.io/projects/switchboard/plug-"
@@ -92,8 +92,8 @@ msgid "Left Hand Orientation"
 msgstr "Vasenkätinen suuntaus"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
-msgid "Wacom"
-msgstr "Wacom"
+msgid "Pen & Drawing"
+msgstr ""
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -112,8 +112,14 @@ msgid "Move the stylus over this window"
 msgstr "Siirrä kynä tämän ikkunan yläpuolelle"
 
 #: src/Plug.vala:22
-msgid "Configure Wacom tablet"
-msgstr "Määritä Wacom-piirtopöydän asetukset"
+msgid "Configure digitizer pens and drawing tablets"
+msgstr ""
+
+#~ msgid "Wacom"
+#~ msgstr "Wacom"
+
+#~ msgid "Configure Wacom tablet"
+#~ msgstr "Määritä Wacom-piirtopöydän asetukset"
 
 #~ msgid "Please move your stylus close to the tablet"
 #~ msgstr "Siirrä stylus-kynä lähelle piirtopöytää"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-17 19:11+0000\n"
+"POT-Creation-Date: 2026-01-20 17:09+0000\n"
 "PO-Revision-Date: 2022-08-06 22:53+0000\n"
 "Last-Translator: Jung-Kyu Park <bagjunggyu@gmail.com>\n"
 "Language-Team: Korean <https://l10n.elementary.io/projects/switchboard/plug-"
@@ -110,8 +110,8 @@ msgid "Left Hand Orientation"
 msgstr "왼손잡이 방향:"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
-msgid "Wacom"
-msgstr "Wacom"
+msgid "Pen & Drawing"
+msgstr ""
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -130,8 +130,14 @@ msgid "Move the stylus over this window"
 msgstr ""
 
 #: src/Plug.vala:22
-msgid "Configure Wacom tablet"
-msgstr "Wacom 태블릿 설정"
+msgid "Configure digitizer pens and drawing tablets"
+msgstr ""
+
+#~ msgid "Wacom"
+#~ msgstr "Wacom"
+
+#~ msgid "Configure Wacom tablet"
+#~ msgstr "Wacom 태블릿 설정"
 
 #~ msgid "Please move your stylus close to the tablet"
 #~ msgstr "스타일러스를 태블릿 가까이로 이동해 주세요"

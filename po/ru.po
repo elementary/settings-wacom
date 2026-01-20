@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-17 19:11+0000\n"
+"POT-Creation-Date: 2026-01-20 17:09+0000\n"
 "PO-Revision-Date: 2024-06-15 16:16+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/switchboard/plug-"
@@ -93,8 +93,8 @@ msgid "Left Hand Orientation"
 msgstr "Ориентация для левшей"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
-msgid "Wacom"
-msgstr "Wacom"
+msgid "Pen & Drawing"
+msgstr ""
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -113,8 +113,14 @@ msgid "Move the stylus over this window"
 msgstr "Проведите пером поверх этого окна"
 
 #: src/Plug.vala:22
-msgid "Configure Wacom tablet"
-msgstr "Настроить планшет Wacom"
+msgid "Configure digitizer pens and drawing tablets"
+msgstr ""
+
+#~ msgid "Wacom"
+#~ msgstr "Wacom"
+
+#~ msgid "Configure Wacom tablet"
+#~ msgstr "Настроить планшет Wacom"
 
 #~ msgid "Please move your stylus close to the tablet"
 #~ msgstr "Пожалуйста, поднесите перо к планшету"

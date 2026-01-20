@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-17 19:11+0000\n"
+"POT-Creation-Date: 2026-01-20 17:09+0000\n"
 "PO-Revision-Date: 2025-08-09 11:55+0000\n"
 "Last-Translator: JieXu <xujie0739@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
@@ -92,8 +92,8 @@ msgid "Left Hand Orientation"
 msgstr "左手方向"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
-msgid "Wacom"
-msgstr "数位板"
+msgid "Pen & Drawing"
+msgstr ""
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -112,8 +112,14 @@ msgid "Move the stylus over this window"
 msgstr "请将电容笔移动到此视窗上方"
 
 #: src/Plug.vala:22
-msgid "Configure Wacom tablet"
-msgstr "配置 Wacom 数位板"
+msgid "Configure digitizer pens and drawing tablets"
+msgstr ""
+
+#~ msgid "Wacom"
+#~ msgstr "数位板"
+
+#~ msgid "Configure Wacom tablet"
+#~ msgstr "配置 Wacom 数位板"
 
 #~ msgid "Please move your stylus close to the tablet"
 #~ msgstr "请将触笔靠近数位板"

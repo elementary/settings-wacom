@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-17 19:11+0000\n"
+"POT-Creation-Date: 2026-01-20 17:09+0000\n"
 "PO-Revision-Date: 2024-06-14 12:18+0000\n"
 "Last-Translator: David M <rbndavid@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/switchboard/plug-"
@@ -92,8 +92,8 @@ msgid "Left Hand Orientation"
 msgstr "Orientació esquerrana"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
-msgid "Wacom"
-msgstr "Wacom"
+msgid "Pen & Drawing"
+msgstr ""
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -113,8 +113,14 @@ msgid "Move the stylus over this window"
 msgstr "Moveu el llapis sobre aquesta finestra"
 
 #: src/Plug.vala:22
-msgid "Configure Wacom tablet"
-msgstr "Configureu la tauleta de Wacom"
+msgid "Configure digitizer pens and drawing tablets"
+msgstr ""
+
+#~ msgid "Wacom"
+#~ msgstr "Wacom"
+
+#~ msgid "Configure Wacom tablet"
+#~ msgstr "Configureu la tauleta de Wacom"
 
 #~ msgid "Please move your stylus close to the tablet"
 #~ msgstr "Si us plau, moveu el llapis a prop de la tauleta."

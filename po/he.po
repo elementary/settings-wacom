@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-17 19:11+0000\n"
+"POT-Creation-Date: 2026-01-20 17:09+0000\n"
 "PO-Revision-Date: 2024-06-15 16:16+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://l10n.elementary.io/projects/switchboard/plug-"
@@ -92,8 +92,8 @@ msgid "Left Hand Orientation"
 msgstr "כיווניות לשמאליים"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
-msgid "Wacom"
-msgstr "לוח ציור"
+msgid "Pen & Drawing"
+msgstr ""
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -112,8 +112,14 @@ msgid "Move the stylus over this window"
 msgstr "העברת עט המגע על פני החלון הזה"
 
 #: src/Plug.vala:22
-msgid "Configure Wacom tablet"
-msgstr "הגדרת לוח ציור"
+msgid "Configure digitizer pens and drawing tablets"
+msgstr ""
+
+#~ msgid "Wacom"
+#~ msgstr "לוח ציור"
+
+#~ msgid "Configure Wacom tablet"
+#~ msgstr "הגדרת לוח ציור"
 
 #~ msgid "Please move your stylus close to the tablet"
 #~ msgstr "נא לקרב את העט שלך ללוח הציור"

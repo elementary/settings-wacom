@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-17 19:11+0000\n"
+"POT-Creation-Date: 2026-01-20 17:09+0000\n"
 "PO-Revision-Date: 2022-09-29 18:06+0000\n"
 "Last-Translator: Aga Ismael <agaesmaeel@gmail.com>\n"
 "Language-Team: Kurdish (Central) <https://l10n.elementary.io/projects/"
@@ -108,8 +108,8 @@ msgid "Left Hand Orientation"
 msgstr "ئۆرینیتەیشنی دەستە-چەپ:"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
-msgid "Wacom"
-msgstr "وەیکام"
+msgid "Pen & Drawing"
+msgstr ""
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -128,8 +128,14 @@ msgid "Move the stylus over this window"
 msgstr ""
 
 #: src/Plug.vala:22
-msgid "Configure Wacom tablet"
-msgstr "ڕێکخستنی تابلێتی وەیکام"
+msgid "Configure digitizer pens and drawing tablets"
+msgstr ""
+
+#~ msgid "Wacom"
+#~ msgstr "وەیکام"
+
+#~ msgid "Configure Wacom tablet"
+#~ msgstr "ڕێکخستنی تابلێتی وەیکام"
 
 #~ msgid "Please move your stylus close to the tablet"
 #~ msgstr "تکایە ستایلەسەکت لە نزیک تابلێتەکەتەوە دابنێ"
