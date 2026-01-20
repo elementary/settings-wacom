@@ -19,7 +19,7 @@ public class Wacom.MainPage : Switchboard.SettingsPage {
 
     public MainPage () {
         Object (
-            title: _("Wacom"),
+            title: _("Pen & Drawing"),
             icon: new ThemedIcon ("input-tablet")
         );
     }
