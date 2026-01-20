@@ -18,8 +18,8 @@ public class Wacom.Plug : Switchboard.Plug {
         Object (
             category: Category.HARDWARE,
             code_name: "pantheon-wacom",
-            display_name: _("Wacom"),
-            description: _("Configure Wacom tablet"),
+            display_name: _("Pen & Drawing"),
+            description: _("Configure digitizer pens and drawing tablets"),
             icon: "input-tablet",
             supported_settings: settings
         );

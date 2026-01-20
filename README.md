@@ -1,4 +1,4 @@
-# Wacom Settings
+# Pen & Drawing Settings
 [![Translation status](https://l10n.elementaryos.org/widget/settings/wacom/svg-badge.svg)](https://l10n.elementaryos.org/engage/settings/)
 
 ![screenshot](data/screenshot.png?raw=true)
