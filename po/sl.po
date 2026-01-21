@@ -8,17 +8,17 @@ msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-20 17:09+0000\n"
-"PO-Revision-Date: 2019-12-19 18:07+0000\n"
-"Last-Translator: Marko <marko.dolar@gmail.com>\n"
-"Language-Team: Slovenian <https://l10n.elementary.io/projects/switchboard/"
-"plug-wacom/sl/>\n"
+"PO-Revision-Date: 2026-01-22 08:55+0000\n"
+"Last-Translator: Jernej Virag <jernej@virag.si>\n"
+"Language-Team: Slovenian <https://l10n.elementaryos.org/projects/settings/"
+"wacom/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 3.9.1\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src/Views/StylusView.vala:50
 msgid "Test Settings"
@@ -62,7 +62,7 @@ msgstr ""
 
 #: src/Views/StylusView.vala:118
 msgid "Back"
-msgstr ""
+msgstr "Nazaj"
 
 #: src/Views/StylusView.vala:119
 msgid "Forward"
