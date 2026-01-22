@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-20 17:09+0000\n"
-"PO-Revision-Date: 2025-10-30 09:55+0000\n"
+"PO-Revision-Date: 2026-01-22 08:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "wacom/sv/>\n"
@@ -93,7 +93,7 @@ msgstr "Vänsterhandsorientering"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
 msgid "Pen & Drawing"
-msgstr ""
+msgstr "Penna och ritande"
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -113,7 +113,7 @@ msgstr "För pekpennan över detta fönster"
 
 #: src/Plug.vala:22
 msgid "Configure digitizer pens and drawing tablets"
-msgstr ""
+msgstr "Konfigurera digitaliseringspennor och ritplattor"
 
 #~ msgid "Wacom"
 #~ msgstr "Wacom"
