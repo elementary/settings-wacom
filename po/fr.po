@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-20 17:09+0000\n"
-"PO-Revision-Date: 2024-06-20 12:11+0000\n"
+"PO-Revision-Date: 2026-01-22 08:55+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
-"Language-Team: French <https://l10n.elementary.io/projects/switchboard/plug-"
-"wacom/fr/>\n"
+"Language-Team: French <https://l10n.elementaryos.org/projects/settings/wacom/"
+"fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5.5\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src/Views/StylusView.vala:50
 msgid "Test Settings"
@@ -93,7 +93,7 @@ msgstr "Orientation gaucher"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
 msgid "Pen & Drawing"
-msgstr ""
+msgstr "Stylet et dessin"
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -113,7 +113,7 @@ msgstr "Déplacez le stylet sur cette fenêtre"
 
 #: src/Plug.vala:22
 msgid "Configure digitizer pens and drawing tablets"
-msgstr ""
+msgstr "Configurer les stylets et les tablettes graphiques"
 
 #~ msgid "Wacom"
 #~ msgstr "Wacom"
