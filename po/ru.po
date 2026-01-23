@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-20 17:09+0000\n"
-"PO-Revision-Date: 2024-06-15 16:16+0000\n"
+"PO-Revision-Date: 2026-01-23 21:55+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
-"Language-Team: Russian <https://l10n.elementary.io/projects/switchboard/plug-"
+"Language-Team: Russian <https://l10n.elementaryos.org/projects/settings/"
 "wacom/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.5.5\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src/Views/StylusView.vala:50
 msgid "Test Settings"
@@ -94,7 +94,7 @@ msgstr "Ориентация для левшей"
 
 #: src/MainPage.vala:22 src/Plug.vala:21
 msgid "Pen & Drawing"
-msgstr ""
+msgstr "Рукописный ввод"
 
 #: src/MainPage.vala:30
 msgid "No Tablets Available"
@@ -114,7 +114,7 @@ msgstr "Проведите пером поверх этого окна"
 
 #: src/Plug.vala:22
 msgid "Configure digitizer pens and drawing tablets"
-msgstr ""
+msgstr "Настройка стилусов и графических планшетов"
 
 #~ msgid "Wacom"
 #~ msgstr "Wacom"
