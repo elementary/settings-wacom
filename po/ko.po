@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-05 19:00+0000\n"
+"POT-Creation-Date: 2026-02-05 20:13+0000\n"
 "PO-Revision-Date: 2022-08-06 22:53+0000\n"
 "Last-Translator: Jung-Kyu Park <bagjunggyu@gmail.com>\n"
 "Language-Team: Korean <https://l10n.elementary.io/projects/switchboard/plug-"
@@ -19,73 +19,74 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.4.2\n"
 
-#: src/Views/StylusView.vala:50
+#. /TRANSLATORS: Button that opens a window where you can test your tablet settings in a drawing area
+#: src/Views/StylusView.vala:51
 #, fuzzy
 #| msgid "Test Tablet Settings"
 msgid "Test Settings"
 msgstr "태블릿 설정 테스트"
 
-#: src/Views/StylusView.vala:81
+#: src/Views/StylusView.vala:82
 #, fuzzy
 #| msgid "Eraser Pressure Feel:"
 msgid "Eraser Pressure Feel"
 msgstr "지우개 압력 느낌:"
 
-#: src/Views/StylusView.vala:86
+#: src/Views/StylusView.vala:87
 #, fuzzy
 #| msgid "Button Action:"
 msgid "Button Action"
 msgstr "버튼 동작:"
 
-#: src/Views/StylusView.vala:89 src/Views/StylusView.vala:93
+#: src/Views/StylusView.vala:90 src/Views/StylusView.vala:94
 #, fuzzy
 #| msgid "Top Button Action:"
 msgid "Top Button Action"
 msgstr "위 버튼 동작:"
 
-#: src/Views/StylusView.vala:90 src/Views/StylusView.vala:95
+#: src/Views/StylusView.vala:91 src/Views/StylusView.vala:96
 #, fuzzy
 #| msgid "Bottom Button Action:"
 msgid "Bottom Button Action"
 msgstr "아래 버튼 동작:"
 
-#: src/Views/StylusView.vala:94
+#: src/Views/StylusView.vala:95
 #, fuzzy
 #| msgid "Middle Button Action:"
 msgid "Middle Button Action"
 msgstr "가운데 버튼 동작:"
 
-#: src/Views/StylusView.vala:100
+#: src/Views/StylusView.vala:101
 #, fuzzy
 #| msgid "Tip Pressure Feel:"
 msgid "Tip Pressure Feel"
 msgstr "팁 압력 느낌:"
 
-#: src/Views/StylusView.vala:115
+#: src/Views/StylusView.vala:116
 msgid "Default"
 msgstr "기본"
 
-#: src/Views/StylusView.vala:116
+#: src/Views/StylusView.vala:117
 msgid "Middle Mouse Button Click"
 msgstr "마우스 가운데 버튼 클릭"
 
-#: src/Views/StylusView.vala:117
+#: src/Views/StylusView.vala:118
 msgid "Right Mouse Button Click"
 msgstr "마우스 오른쪽 버튼 클릭"
 
-#: src/Views/StylusView.vala:118
+#: src/Views/StylusView.vala:119
 msgid "Back"
 msgstr "뒤로"
 
-#: src/Views/StylusView.vala:119
+#: src/Views/StylusView.vala:120
 msgid "Forward"
 msgstr "앞으로"
 
-#: src/Views/StylusView.vala:144
+#: src/Views/StylusView.vala:145
 msgid "Soft"
 msgstr "부드러운"
 
-#: src/Views/StylusView.vala:145
+#: src/Views/StylusView.vala:146
 msgid "Firm"
 msgstr "단단한"
 

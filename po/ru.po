@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-05 19:00+0000\n"
+"POT-Creation-Date: 2026-02-05 20:13+0000\n"
 "PO-Revision-Date: 2026-01-23 21:55+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementaryos.org/projects/settings/"
@@ -20,59 +20,60 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.11.4\n"
 
-#: src/Views/StylusView.vala:50
+#. /TRANSLATORS: Button that opens a window where you can test your tablet settings in a drawing area
+#: src/Views/StylusView.vala:51
 msgid "Test Settings"
 msgstr "Тест настроек"
 
-#: src/Views/StylusView.vala:81
+#: src/Views/StylusView.vala:82
 msgid "Eraser Pressure Feel"
 msgstr "Чувствительность давления ластика"
 
-#: src/Views/StylusView.vala:86
+#: src/Views/StylusView.vala:87
 msgid "Button Action"
 msgstr "Действие кнопки"
 
-#: src/Views/StylusView.vala:89 src/Views/StylusView.vala:93
+#: src/Views/StylusView.vala:90 src/Views/StylusView.vala:94
 msgid "Top Button Action"
 msgstr "Действие верхней кнопки"
 
-#: src/Views/StylusView.vala:90 src/Views/StylusView.vala:95
+#: src/Views/StylusView.vala:91 src/Views/StylusView.vala:96
 msgid "Bottom Button Action"
 msgstr "Действие нижней кнопки"
 
-#: src/Views/StylusView.vala:94
+#: src/Views/StylusView.vala:95
 msgid "Middle Button Action"
 msgstr "Действие средней кнопки"
 
-#: src/Views/StylusView.vala:100
+#: src/Views/StylusView.vala:101
 msgid "Tip Pressure Feel"
 msgstr "Чувствительность давления наконечника"
 
-#: src/Views/StylusView.vala:115
+#: src/Views/StylusView.vala:116
 msgid "Default"
 msgstr "По умолчанию"
 
-#: src/Views/StylusView.vala:116
+#: src/Views/StylusView.vala:117
 msgid "Middle Mouse Button Click"
 msgstr "Нажатие средней кнопки мыши"
 
-#: src/Views/StylusView.vala:117
+#: src/Views/StylusView.vala:118
 msgid "Right Mouse Button Click"
 msgstr "Нажатие правой кнопки мыши"
 
-#: src/Views/StylusView.vala:118
+#: src/Views/StylusView.vala:119
 msgid "Back"
 msgstr "Назад"
 
-#: src/Views/StylusView.vala:119
+#: src/Views/StylusView.vala:120
 msgid "Forward"
 msgstr "Вперёд"
 
-#: src/Views/StylusView.vala:144
+#: src/Views/StylusView.vala:145
 msgid "Soft"
 msgstr "Мягкий"
 
-#: src/Views/StylusView.vala:145
+#: src/Views/StylusView.vala:146
 msgid "Firm"
 msgstr "Твёрдый"
 

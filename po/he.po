@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-05 19:00+0000\n"
+"POT-Creation-Date: 2026-02-05 20:13+0000\n"
 "PO-Revision-Date: 2024-06-15 16:16+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://l10n.elementary.io/projects/switchboard/plug-"
@@ -19,59 +19,60 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 5.5.5\n"
 
-#: src/Views/StylusView.vala:50
+#. /TRANSLATORS: Button that opens a window where you can test your tablet settings in a drawing area
+#: src/Views/StylusView.vala:51
 msgid "Test Settings"
 msgstr "בדיקת הגדרות"
 
-#: src/Views/StylusView.vala:81
+#: src/Views/StylusView.vala:82
 msgid "Eraser Pressure Feel"
 msgstr "תחושת לחץ מחיקה"
 
-#: src/Views/StylusView.vala:86
+#: src/Views/StylusView.vala:87
 msgid "Button Action"
 msgstr "פעולת כפתור"
 
-#: src/Views/StylusView.vala:89 src/Views/StylusView.vala:93
+#: src/Views/StylusView.vala:90 src/Views/StylusView.vala:94
 msgid "Top Button Action"
 msgstr "פעולת כפתור עליון"
 
-#: src/Views/StylusView.vala:90 src/Views/StylusView.vala:95
+#: src/Views/StylusView.vala:91 src/Views/StylusView.vala:96
 msgid "Bottom Button Action"
 msgstr "פעולת כפתור תחתון"
 
-#: src/Views/StylusView.vala:94
+#: src/Views/StylusView.vala:95
 msgid "Middle Button Action"
 msgstr "פעולת כפתור אמצעי"
 
-#: src/Views/StylusView.vala:100
+#: src/Views/StylusView.vala:101
 msgid "Tip Pressure Feel"
 msgstr "תחושת לחץ חוד"
 
-#: src/Views/StylusView.vala:115
+#: src/Views/StylusView.vala:116
 msgid "Default"
 msgstr "ברירת מחדל"
 
-#: src/Views/StylusView.vala:116
+#: src/Views/StylusView.vala:117
 msgid "Middle Mouse Button Click"
 msgstr "לחיצת כפתור אמצעי בעכבר"
 
-#: src/Views/StylusView.vala:117
+#: src/Views/StylusView.vala:118
 msgid "Right Mouse Button Click"
 msgstr "לחיצת כפתור ימני בעכבר"
 
-#: src/Views/StylusView.vala:118
+#: src/Views/StylusView.vala:119
 msgid "Back"
 msgstr "חזרה"
 
-#: src/Views/StylusView.vala:119
+#: src/Views/StylusView.vala:120
 msgid "Forward"
 msgstr "קדימה"
 
-#: src/Views/StylusView.vala:144
+#: src/Views/StylusView.vala:145
 msgid "Soft"
 msgstr "רך"
 
-#: src/Views/StylusView.vala:145
+#: src/Views/StylusView.vala:146
 msgid "Firm"
 msgstr "קשיח"
 
