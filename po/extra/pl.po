@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-20 17:09+0000\n"
+"POT-Creation-Date: 2026-02-05 19:00+0000\n"
 "PO-Revision-Date: 2024-12-24 00:16+0000\n"
 "Last-Translator: Marcin Serwin <marcin@serwin.dev>\n"
 "Language-Team: Polish <https://l10n.elementary.io/projects/switchboard/plug-"
@@ -21,8 +21,8 @@ msgstr ""
 "X-Generator: Weblate 5.8.4\n"
 
 #: data/wacom.metainfo.xml.in:10
-msgid "Wacom Settings"
-msgstr "Ustawienia Wacom"
+msgid "Pen &amp; Drawing Settings"
+msgstr ""
 
 #: data/wacom.metainfo.xml.in:11
 msgid "Configure Wacom tablets"
@@ -32,31 +32,38 @@ msgstr "Konfiguruj tablety Wacom"
 msgid "elementary, Inc."
 msgstr "elementary, Inc."
 
-#: data/wacom.metainfo.xml.in:36
+#: data/wacom.metainfo.xml.in:36 data/wacom.metainfo.xml.in:46
 msgid "Updates:"
 msgstr "Aktualizacje:"
 
-#: data/wacom.metainfo.xml.in:38 data/wacom.metainfo.xml.in:52
-#: data/wacom.metainfo.xml.in:61
+#: data/wacom.metainfo.xml.in:38
+msgid "Rename as Pen &amp; Drawing"
+msgstr ""
+
+#: data/wacom.metainfo.xml.in:39 data/wacom.metainfo.xml.in:48
+#: data/wacom.metainfo.xml.in:62 data/wacom.metainfo.xml.in:71
 msgid "Updated translations"
 msgstr "Zaktualizowane tłumaczenia"
 
-#: data/wacom.metainfo.xml.in:48
+#: data/wacom.metainfo.xml.in:58
 msgid "A Big Redesign!"
 msgstr "Wielkie przeprojektowanie!"
 
-#: data/wacom.metainfo.xml.in:50
+#: data/wacom.metainfo.xml.in:60
 msgid "See all settings in a single page"
 msgstr "Możliwość wyświetlenia wszystkich ustawień na jednej stronie"
 
-#: data/wacom.metainfo.xml.in:51
+#: data/wacom.metainfo.xml.in:61
 msgid "Show pen names"
 msgstr "Pokazywanie pseudonimów"
 
-#: data/wacom.metainfo.xml.in:59
+#: data/wacom.metainfo.xml.in:69
 msgid "Minor updates:"
 msgstr "Mniejsze aktualizacje:"
 
-#: data/wacom.metainfo.xml.in:68
+#: data/wacom.metainfo.xml.in:78
 msgid "Initial Release!"
 msgstr "Pierwsze wydanie!"
+
+#~ msgid "Wacom Settings"
+#~ msgstr "Ustawienia Wacom"

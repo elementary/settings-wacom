@@ -7,7 +7,7 @@
   <project_license>GPL-3.0+</project_license>
 
   <icon type="stock">input-tablet</icon>
-  <name>Wacom Settings</name>
+  <name>Pen &amp; Drawing Settings</name>
   <summary>Configure Wacom tablets</summary>
 
   <screenshots>
@@ -31,6 +31,16 @@
   <update_contact>contact_at_elementary.io</update_contact>
 
   <releases>
+    <release version="8.0.2" date="2026-02-04" urgency="medium">
+      <description>
+        <p>Updates:</p>
+        <ul>
+          <li>Rename as Pen &amp; Drawing</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+
     <release version="8.0.1" date="2025-05-01" urgency="medium">
       <description>
         <p>Updates:</p>
