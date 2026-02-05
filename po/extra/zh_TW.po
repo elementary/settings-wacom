@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-20 17:09+0000\n"
+"POT-Creation-Date: 2026-02-05 19:00+0000\n"
 "PO-Revision-Date: 2025-01-17 18:16+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://l10n.elementary.io/"
@@ -20,8 +20,8 @@ msgstr ""
 "X-Generator: Weblate 5.9.2\n"
 
 #: data/wacom.metainfo.xml.in:10
-msgid "Wacom Settings"
-msgstr "Wacom 設定"
+msgid "Pen &amp; Drawing Settings"
+msgstr ""
 
 #: data/wacom.metainfo.xml.in:11
 msgid "Configure Wacom tablets"
@@ -31,31 +31,38 @@ msgstr "調整 Wacom 繪圖板設定"
 msgid "elementary, Inc."
 msgstr "elementary, Inc."
 
-#: data/wacom.metainfo.xml.in:36
+#: data/wacom.metainfo.xml.in:36 data/wacom.metainfo.xml.in:46
 msgid "Updates:"
 msgstr "更新："
 
-#: data/wacom.metainfo.xml.in:38 data/wacom.metainfo.xml.in:52
-#: data/wacom.metainfo.xml.in:61
+#: data/wacom.metainfo.xml.in:38
+msgid "Rename as Pen &amp; Drawing"
+msgstr ""
+
+#: data/wacom.metainfo.xml.in:39 data/wacom.metainfo.xml.in:48
+#: data/wacom.metainfo.xml.in:62 data/wacom.metainfo.xml.in:71
 msgid "Updated translations"
 msgstr "翻譯更新"
 
-#: data/wacom.metainfo.xml.in:48
+#: data/wacom.metainfo.xml.in:58
 msgid "A Big Redesign!"
 msgstr "大幅重新設計！"
 
-#: data/wacom.metainfo.xml.in:50
+#: data/wacom.metainfo.xml.in:60
 msgid "See all settings in a single page"
 msgstr "將所有設定值放到一個頁面中"
 
-#: data/wacom.metainfo.xml.in:51
+#: data/wacom.metainfo.xml.in:61
 msgid "Show pen names"
 msgstr "顯示繪圖筆名稱"
 
-#: data/wacom.metainfo.xml.in:59
+#: data/wacom.metainfo.xml.in:69
 msgid "Minor updates:"
 msgstr "小型更新："
 
-#: data/wacom.metainfo.xml.in:68
+#: data/wacom.metainfo.xml.in:78
 msgid "Initial Release!"
 msgstr "初次發佈！"
+
+#~ msgid "Wacom Settings"
+#~ msgstr "Wacom 設定"
