@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-05 20:13+0000\n"
-"PO-Revision-Date: 2025-08-30 22:55+0000\n"
+"PO-Revision-Date: 2026-02-06 22:55+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementaryos.org/projects/settings/"
 "plug-wacom-extra/ja/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: data/wacom.metainfo.xml.in:10
 msgid "Pen &amp; Drawing Settings"
-msgstr ""
+msgstr "ペンとタブレット設定"
 
 #: data/wacom.metainfo.xml.in:11
 msgid "Configure Wacom tablets"
@@ -37,7 +37,7 @@ msgstr "アップデート:"
 
 #: data/wacom.metainfo.xml.in:38
 msgid "Rename as Pen &amp; Drawing"
-msgstr ""
+msgstr "“ペンとタブレット”に名称変更"
 
 #: data/wacom.metainfo.xml.in:39 data/wacom.metainfo.xml.in:48
 #: data/wacom.metainfo.xml.in:62 data/wacom.metainfo.xml.in:71
