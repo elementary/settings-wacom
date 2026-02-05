@@ -47,6 +47,7 @@ public class Wacom.StylusView : Gtk.Box {
             hexpand = true
         };
 
+        ///TRANSLATORS: Button that opens a window where you can test your tablet settings in a drawing area
         var test_button = new Gtk.Button.with_label (_("Test Settings"));
 
         var test_area = new Widgets.DrawingArea () {
