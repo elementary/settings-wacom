@@ -1,7 +1,7 @@
 project(
     'wacom',
     'vala', 'c',
-    version: '8.0.1'
+    version: '8.0.2'
 )
 
 vapi_dir = join_paths(meson.current_source_dir(), 'vapi')
