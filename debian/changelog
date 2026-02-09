@@ -1,3 +1,9 @@
+io.elementary.settings.wacom (8.0.2) noble; urgency=medium
+
+  * Release 8.0.2
+
+ -- Danielle Foré <danielle@elementary.io>  Mon, 09 Feb 2026 09:26:19 -0800
+
 io.elementary.settings.wacom (8.0.1) noble; urgency=medium
 
   * Release 8.0.1 (#74)
