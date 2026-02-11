@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-05 20:13+0000\n"
-"PO-Revision-Date: 2025-02-07 15:16+0000\n"
+"PO-Revision-Date: 2026-02-12 08:55+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
-"Language-Team: French <https://l10n.elementary.io/projects/switchboard/plug-"
-"wacom-extra/fr/>\n"
+"Language-Team: French <https://l10n.elementaryos.org/projects/settings/"
+"plug-wacom-extra/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: data/wacom.metainfo.xml.in:10
 msgid "Pen &amp; Drawing Settings"
-msgstr ""
+msgstr "Paramètres de stylet &amp; dessin"
 
 #: data/wacom.metainfo.xml.in:11
 msgid "Configure Wacom tablets"
@@ -37,7 +37,7 @@ msgstr "Mises à jour :"
 
 #: data/wacom.metainfo.xml.in:38
 msgid "Rename as Pen &amp; Drawing"
-msgstr ""
+msgstr "Renommé en Stylet et dessin"
 
 #: data/wacom.metainfo.xml.in:39 data/wacom.metainfo.xml.in:48
 #: data/wacom.metainfo.xml.in:62 data/wacom.metainfo.xml.in:71
