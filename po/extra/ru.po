@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-05 20:13+0000\n"
+"POT-Creation-Date: 2026-03-02 16:57+0000\n"
 "PO-Revision-Date: 2026-02-08 07:31+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
-"Language-Team: Russian <https://l10n.elementaryos.org/projects/settings/"
-"plug-wacom-extra/ru/>\n"
+"Language-Team: Russian <https://l10n.elementaryos.org/projects/settings/plug-"
+"wacom-extra/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +21,9 @@ msgstr ""
 "X-Generator: Weblate 5.11.4\n"
 
 #: data/wacom.metainfo.xml.in:10
-msgid "Pen &amp; Drawing Settings"
+#, fuzzy
+#| msgid "Pen &amp; Drawing Settings"
+msgid "Pen & Drawing Settings"
 msgstr "Параметры рукописного ввода"
 
 #: data/wacom.metainfo.xml.in:11
@@ -37,7 +39,9 @@ msgid "Updates:"
 msgstr "Обновления:"
 
 #: data/wacom.metainfo.xml.in:38
-msgid "Rename as Pen &amp; Drawing"
+#, fuzzy
+#| msgid "Rename as Pen &amp; Drawing"
+msgid "Rename as Pen & Drawing"
 msgstr "Переименовано в Параметры рукописного ввода"
 
 #: data/wacom.metainfo.xml.in:39 data/wacom.metainfo.xml.in:48
