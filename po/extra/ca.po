@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-02 16:57+0000\n"
-"PO-Revision-Date: 2026-02-06 22:55+0000\n"
+"PO-Revision-Date: 2026-03-04 08:55+0000\n"
 "Last-Translator: David M <rbndavid@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.elementaryos.org/projects/settings/plug-"
-"wacom-extra/ca/>\n"
+"Language-Team: Catalan <https://l10n.elementaryos.org/projects/settings/"
+"plug-wacom-extra/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,10 +20,8 @@ msgstr ""
 "X-Generator: Weblate 5.11.4\n"
 
 #: data/wacom.metainfo.xml.in:10
-#, fuzzy
-#| msgid "Pen &amp; Drawing Settings"
 msgid "Pen & Drawing Settings"
-msgstr "Configuració del llapis i del dibuix"
+msgstr "Configuració del Bolígraf i dibuix"
 
 #: data/wacom.metainfo.xml.in:11
 msgid "Configure Wacom tablets"
@@ -38,10 +36,8 @@ msgid "Updates:"
 msgstr "Actualitzacions:"
 
 #: data/wacom.metainfo.xml.in:38
-#, fuzzy
-#| msgid "Rename as Pen &amp; Drawing"
 msgid "Rename as Pen & Drawing"
-msgstr "Canvi de nom a Ploma i dibuix"
+msgstr "Canvi de nom a Bolígraf i dibuix"
 
 #: data/wacom.metainfo.xml.in:39 data/wacom.metainfo.xml.in:48
 #: data/wacom.metainfo.xml.in:62 data/wacom.metainfo.xml.in:71
