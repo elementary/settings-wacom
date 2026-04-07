@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-02 16:57+0000\n"
-"PO-Revision-Date: 2026-03-02 16:55+0000\n"
+"PO-Revision-Date: 2026-04-08 05:26+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://"
 "l10n.elementaryos.org/projects/settings/plug-wacom-extra/zh_TW/>\n"
@@ -20,8 +20,6 @@ msgstr ""
 "X-Generator: Weblate 5.11.4\n"
 
 #: data/wacom.metainfo.xml.in:10
-#, fuzzy
-#| msgid "Pen &amp; Drawing Settings"
 msgid "Pen & Drawing Settings"
 msgstr "畫筆與繪圖板設定值"
 
@@ -38,8 +36,6 @@ msgid "Updates:"
 msgstr "更新："
 
 #: data/wacom.metainfo.xml.in:38
-#, fuzzy
-#| msgid "Rename as Pen &amp; Drawing"
 msgid "Rename as Pen & Drawing"
 msgstr "更名為「畫筆與繪圖板」"
 
