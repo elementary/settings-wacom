@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-02 16:57+0000\n"
-"PO-Revision-Date: 2026-06-29 01:00+0000\n"
+"PO-Revision-Date: 2026-06-30 12:56+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://l10n.elementaryos.org/projects/settings/wacom/"
 "el/>\n"
@@ -62,7 +62,7 @@ msgstr ""
 
 #: src/Views/StylusView.vala:119
 msgid "Back"
-msgstr ""
+msgstr "Πίσω"
 
 #: src/Views/StylusView.vala:120
 #, fuzzy
