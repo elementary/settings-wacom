@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-02 16:57+0000\n"
-"PO-Revision-Date: 2026-06-29 01:00+0000\n"
+"PO-Revision-Date: 2026-07-10 12:01+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://l10n.elementaryos.org/projects/settings/plug-"
 "wacom-extra/el/>\n"
@@ -33,7 +33,7 @@ msgstr "elementary, Inc."
 
 #: data/wacom.metainfo.xml.in:36 data/wacom.metainfo.xml.in:46
 msgid "Updates:"
-msgstr ""
+msgstr "Ενημερώσεις:"
 
 #: data/wacom.metainfo.xml.in:38
 msgid "Rename as Pen & Drawing"
@@ -46,11 +46,11 @@ msgstr "Ενημερωμένες μεταφράσεις"
 
 #: data/wacom.metainfo.xml.in:58
 msgid "A Big Redesign!"
-msgstr ""
+msgstr "Μεγάλος ανασχεδιασμός!"
 
 #: data/wacom.metainfo.xml.in:60
 msgid "See all settings in a single page"
-msgstr ""
+msgstr "Προβολή όλων των ρυθμίσεων σε ενιαία σελίδα"
 
 #: data/wacom.metainfo.xml.in:61
 msgid "Show pen names"
@@ -62,4 +62,4 @@ msgstr "Μικρές ενημερώσεις:"
 
 #: data/wacom.metainfo.xml.in:78
 msgid "Initial Release!"
-msgstr ""
+msgstr "Αρχική έκδοση!"
