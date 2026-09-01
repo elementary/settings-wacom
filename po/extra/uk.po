@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-02 16:57+0000\n"
-"PO-Revision-Date: 2024-12-24 00:16+0000\n"
+"PO-Revision-Date: 2026-09-03 00:02+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
-"Language-Team: Ukrainian <https://l10n.elementary.io/projects/switchboard/"
+"Language-Team: Ukrainian <https://l10n.elementaryos.org/projects/settings/"
 "plug-wacom-extra/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -18,11 +18,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.8.4\n"
+"X-Generator: Weblate 2026.5\n"
 
 #: data/wacom.metainfo.xml.in:10
 msgid "Pen & Drawing Settings"
-msgstr ""
+msgstr "Налаштування олівця і малювання"
 
 #: data/wacom.metainfo.xml.in:11
 msgid "Configure Wacom tablets"
@@ -38,7 +38,7 @@ msgstr "Оновлення:"
 
 #: data/wacom.metainfo.xml.in:38
 msgid "Rename as Pen & Drawing"
-msgstr ""
+msgstr "Перейменовано на Олівець і малювання"
 
 #: data/wacom.metainfo.xml.in:39 data/wacom.metainfo.xml.in:48
 #: data/wacom.metainfo.xml.in:62 data/wacom.metainfo.xml.in:71
