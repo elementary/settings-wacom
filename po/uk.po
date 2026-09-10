@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wacom-plug\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-02 16:57+0000\n"
-"PO-Revision-Date: 2026-09-03 00:02+0000\n"
+"PO-Revision-Date: 2026-09-11 22:01+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementaryos.org/projects/settings/"
 "wacom/uk/>\n"
@@ -115,7 +115,7 @@ msgstr "Наведіть стилус на це вікно"
 
 #: src/Plug.vala:22
 msgid "Configure digitizer pens and drawing tablets"
-msgstr ""
+msgstr "Налаштування цифрових ручок і графічних планшетів"
 
 #~ msgid "Wacom"
 #~ msgstr "Wacom"
