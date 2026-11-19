@@ -1,8 +1,6 @@
 plug_files = files(
     'Backend/Device.vala',
     'Backend/DeviceManager.vala',
-    'Backend/DeviceManagerWayland.vala',
-    'Backend/DeviceManagerX11.vala',
     'Backend/WacomTool.vala',
     'Backend/WacomToolMap.vala',
     'Views/StylusView.vala',
@@ -21,7 +19,6 @@ gtk_deps = [
 
 if meson.get_compiler('vala').version().version_compare('>=0.56.1')
     gtk_deps += [
-        dependency('gtk4-x11'),
         dependency('gtk4-wayland')
     ]
 endif
@@ -40,8 +37,6 @@ shared_module(
         dependency('libadwaita-1'),
         dependency('libwacom'),
         dependency('gudev-1.0'),
-        dependency('x11'),
-        dependency('xi'),
         switchboard_dep
     ],
     install: true,
