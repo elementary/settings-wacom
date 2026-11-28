@@ -136,7 +136,7 @@ namespace Wacom {
 		[CCode (cname = "libwacom_has_touch")]
 		private int _has_touch ();
 		public int get_num_buttons ();
-		public int[] get_supported_styli ();
+		public unowned int[] get_supported_styli ();
 		[CCode (cname = "_vala_libwacom_has_ring")]
 		public bool has_ring () {
 			return _has_ring () != 0;
